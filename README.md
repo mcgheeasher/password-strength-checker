@@ -31,7 +31,7 @@ A simple **Flask web application** that checks password strength and tells you i
 
 📸 Screenshot
 
-(Pending...)
+![Screenshot](images/Final_Screenshot.png)
 
 ✨ Features
 
